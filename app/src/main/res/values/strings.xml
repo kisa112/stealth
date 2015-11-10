@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">stealth</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="loading" >로딩중</string>
+    <string name="menu_download" >다운로드</string>
+    <string name="menu_all" >전체</string>
+</resources>
